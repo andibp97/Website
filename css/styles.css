@@ -11938,8 +11938,8 @@ body {
   }
   #mainNav .nav-link:active {
     color: #fff;
-  }
-  #mainNav.navbar-shrink {
+  }signup
+  #mainsignupnavbar-shrink {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
@@ -12080,7 +12080,8 @@ body {
 }
 
 .signup-section {
-  padding: 10rem 0;
+  padding: 10rem, 0;
+   margin: 0px 0px 20px 0;
   background: linear-gradient(
       to bottom,
       rgba(0, 0, 0, 0.1) 0%,
@@ -12326,4 +12327,8 @@ body {
 }
 .carousel-indicators li.active {	
 	background: #555;
+}
+
+
+
 }
